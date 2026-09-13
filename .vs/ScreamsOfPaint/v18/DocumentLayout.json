@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\roman\\Desktop\\Gamedev\\ScreamsOfPaint\\Screams-Of-Paint\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{06F3B17F-793F-32A3-A78B-24A9B15FE74D}|Intermediate\\ProjectFiles\\ScreamsOfPaint.vcxproj|C:\\Users\\roman\\Desktop\\Gamedev\\ScreamsOfPaint\\Screams-Of-Paint\\Source\\ScreamsOfPaint\\Private\\RecoilComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06F3B17F-793F-32A3-A78B-24A9B15FE74D}|Intermediate\\ProjectFiles\\ScreamsOfPaint.vcxproj|solutionrelative:Source\\ScreamsOfPaint\\Private\\RecoilComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06F3B17F-793F-32A3-A78B-24A9B15FE74D}|Intermediate\\ProjectFiles\\ScreamsOfPaint.vcxproj|C:\\Users\\roman\\Desktop\\Gamedev\\ScreamsOfPaint\\Screams-Of-Paint\\Source\\ScreamsOfPaint\\Public\\PaintCoverageComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{06F3B17F-793F-32A3-A78B-24A9B15FE74D}|Intermediate\\ProjectFiles\\ScreamsOfPaint.vcxproj|solutionrelative:Source\\ScreamsOfPaint\\Public\\PaintCoverageComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "RecoilComponent.cpp",
+              "DocumentMoniker": "C:\\Users\\roman\\Desktop\\Gamedev\\ScreamsOfPaint\\Screams-Of-Paint\\Source\\ScreamsOfPaint\\Private\\RecoilComponent.cpp",
+              "RelativeDocumentMoniker": "Source\\ScreamsOfPaint\\Private\\RecoilComponent.cpp",
+              "ToolTip": "C:\\Users\\roman\\Desktop\\Gamedev\\ScreamsOfPaint\\Screams-Of-Paint\\Source\\ScreamsOfPaint\\Private\\RecoilComponent.cpp",
+              "RelativeToolTip": "Source\\ScreamsOfPaint\\Private\\RecoilComponent.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-13T14:34:31.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SOPCharacterBase.h",
               "DocumentMoniker": "C:\\Users\\roman\\Desktop\\Gamedev\\ScreamsOfPaint\\Screams-Of-Paint\\Source\\ScreamsOfPaint\\Public\\SOPCharacterBase.h",
               "RelativeDocumentMoniker": "Source\\ScreamsOfPaint\\Public\\SOPCharacterBase.h",
@@ -30,12 +47,11 @@
               "RelativeToolTip": "Source\\ScreamsOfPaint\\Public\\SOPCharacterBase.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-09-03T16:32:25.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T16:32:25.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PaintCoverageComponent.h",
               "DocumentMoniker": "C:\\Users\\roman\\Desktop\\Gamedev\\ScreamsOfPaint\\Screams-Of-Paint\\Source\\ScreamsOfPaint\\Public\\PaintCoverageComponent.h",
               "RelativeDocumentMoniker": "Source\\ScreamsOfPaint\\Public\\PaintCoverageComponent.h",
